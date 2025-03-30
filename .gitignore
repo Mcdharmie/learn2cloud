@@ -4,3 +4,7 @@
 terraform-provider-aws*
 .terraform/
 *.tfstate
+*.terraform
+*.tfstate
+*.tfstate.backup
+terraform-provider-aws*
